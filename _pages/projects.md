@@ -12,7 +12,7 @@ nav_order: 2
 
   <!-- Left: Image -->
   <div class="project-image">
-    <img src="{{ site.baseurl }}/assets/img/jigsaw.jpg" alt="Visual Embeddings Jigsaw Preview" style="max-width: 300px; margin-top: 10px;" />
+    <img src="{{ site.baseurl }}/assets/img/jigsaw.JPG" alt="Visual Embeddings Jigsaw Preview" style="max-width: 300px; margin-top: 10px;" />
   </div>
 
   <!-- Right: Project Info -->
@@ -41,7 +41,7 @@ nav_order: 2
 
   <!-- Left: Image -->
   <div class="project-image">
-    <img src="{{ site.baseurl }}/assets/img/quantum.jpg" alt="Quantum Machine Learning Preview" style="max-width: 300px;" />
+    <img src="{{ site.baseurl }}/assets/img/quantum.JPG" alt="Quantum Machine Learning Preview" style="max-width: 300px;" />
   </div>
 
   <!-- Right: Project Info -->
@@ -71,7 +71,7 @@ nav_order: 2
 
   <!-- Left: Image -->
   <div class="project-image">
-    <img src="{{ site.baseurl }}/assets/img/swav.jpg" alt="SWaV Clustering for Vehicle Re-Identification" style="max-width: 300px;" />
+    <img src="{{ site.baseurl }}/assets/img/swav.JPG" alt="SWaV Clustering for Vehicle Re-Identification" style="max-width: 300px;" />
   </div>
 
   <!-- Right: Project Info -->
@@ -99,7 +99,7 @@ nav_order: 2
 
   <!-- Left: Image -->
   <div class="project-image">
-    <img src="{{ site.baseurl }}/assets/img/payday.jpg" alt="ADRENALIN NILM Challenge" style="max-width: 300px;" />
+    <img src="{{ site.baseurl }}/assets/img/payday.JPG" alt="ADRENALIN NILM Challenge" style="max-width: 300px;" />
   </div>
 
   <!-- Right: Project Info -->
