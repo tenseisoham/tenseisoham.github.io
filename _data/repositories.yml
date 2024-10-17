@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - tenseisoham
 
-repo_description_lines_max: 2
+repo_description_lines_max: 3
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - tenseisoham/payday
+  - tenseisoham/dolphin
+  - tenseisoham/QuantumML
+  - tenseisoham/MLPR
+  - tenseisoham/Quantum-Entanglement
+  - tenseisoham/KAN-Implementation-Classification
+  - tenseisoham/Temporal-Difference-Learning-Simulation

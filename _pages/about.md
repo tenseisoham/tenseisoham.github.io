@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a final-year Computer Science student at Plaksha University. My current research is based on some Retrieval Augmentation Generation related RL problem and learning visual embeddings nvolving jigsaw puzzles in particular. I have also worked in the fields of Human-Centered Computing during an project invloving detecting human impairements using vision language models.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Topics of research that intrigue me include, but are not limited to, puzzles, update-rule algorithms, language modelling, deterministic reasoning mechanisms or anything that imparts tacit knowledge in models!
+
+Outside of my academic and research endeavors, I have a deep appreciation for cinema. I love critically analyzing modern films and am actively involved in filmography and directing. My team and I have won competitions at BITS-H, Ashoka, and internal university events. Additionally, I’m passionate about e-sports, having participated in competitive gaming and worked as an analyst for the same.
+
+I also [blog](https://medium.com/@soham.petkar) and [tweet](https://x.com/ressurexn?t=MegIXtg6YODVVfxpj-J1TA&s=09) sometimes.
+

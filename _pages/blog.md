@@ -1,4 +1,67 @@
 ---
+layout: page
+permalink: /CV/
+title: CV
+description:
+nav: true
+nav_order: 2
+---
+
+
+## **Work Experience**
+---
+### **AI/ML & Data Science Intern**  
+**JM Financial Ltd**  
+**May 2024 - August 2024 | Mumbai, Maharashtra, India**  
+- Automated and deployed ETL pipelines for BigQuery data processing, enhancing data flow efficiency.
+- Developed a customer segmentation model using machine learning, improving precision-recall from 0.81 to 0.87 and accuracy from 83% to 90%.
+- Led a project on lead generation prediction and DIY analysis using RNN and Seq2Seq attention models, providing actionable insights for business decision-making.
+- Performed end-to-end feature engineering, model development, and testing pipelines.
+- Developed and deployed a CRUD persistent storage application to automate marketing workflows, eliminating manual labor.
+
+---
+
+### **Head of Logistics and Operations**  
+**Plaksha Consulting Club**  
+**August 2023 - August 2024**  
+- Managed logistics and operations for multiple projects, ensuring smooth execution and timely delivery.
+
+---
+
+### **AI/ML Engineer**  
+**Best Automation**  
+**July 2023 - September 2023 | Pune/Pimpri-Chinchwad Area**  
+- Reduced processing time by 33% for the Indian Navy, enabling real-time execution with Deep Learning models.
+- Led a team of 4, improving operational efficiency and reducing hardware management costs by 20%.
+- Assisted in customer acquisition, generating 3+ leads across diverse industries.
+
+---
+
+### **Entrepreneur**  
+**InfoEdge CFE Plaksha University**  
+**April 2023 - June 2023 | Chandigarh, India**  
+- Founded EasyPC, a fully modular laptop venture, as a short-term entrepreneurship project.
+
+---
+
+### **Tech Business Development Intern**  
+**MetaXP**  
+**July 2022 - September 2022**  
+- Reduced employee attrition by 25% annually by implementing AI and a realistic job preview system.
+- Saved 28% of incurred hiring costs for institutions, reducing the time per candidate by 2-4 hours.
+- Conducted market assessments to craft AI-driven recruitment solutions.
+
+---
+
+### **Game Designer**  
+**MADIEE Games**  
+**January 2022 - June 2022**  
+- Led game ideation and development, employing Reinforcement Learning principles in the design of the trek-12 game.
+- Projected to increase employee performance by 15% for targeted client segments through game-based learning simulations.
+
+
+
+<!-- ---
 layout: default
 permalink: /blog/
 title: blog
@@ -193,4 +256,4 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
-</div>
+</div> -->
