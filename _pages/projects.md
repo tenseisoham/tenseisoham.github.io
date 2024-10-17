@@ -28,8 +28,8 @@ nav_order: 2
     </div>
 
     <div class="project-links">
-      <a href="link-to-code" class="btn btn-primary">Code</a>
-      <a href="link-to-paper" class="btn btn-secondary">Paper</a>
+      <a href="https://github.com/tenseisoham/dolphin/tree/main" class="btn btn-primary">Code</a>
+      <a href="https://plakshauniversity1-my.sharepoint.com/personal/soham_petkar_plaksha_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsoham%5Fpetkar%5Fplaksha%5Fedu%5Fin%2FDocuments%2FDL%5FFinal%5FJigsaw%2Epdf&parent=%2Fpersonal%2Fsoham%5Fpetkar%5Fplaksha%5Fedu%5Fin%2FDocuments&ga=1" class="btn btn-secondary">Paper</a>
     </div>
   </div>
 </div>
@@ -57,8 +57,8 @@ nav_order: 2
     </div>
 
     <div class="project-links">
-      <a href="link-to-code" class="btn btn-primary">Code</a>
-      <a href="link-to-paper" class="btn btn-secondary">Paper</a>
+      <a href="https://github.com/tenseisoham/QuantumML/tree/main" class="btn btn-primary">Code</a>
+      <a href="https://plakshauniversity1-my.sharepoint.com/personal/soham_petkar_plaksha_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsoham%5Fpetkar%5Fplaksha%5Fedu%5Fin%2FDocuments%2Ffinal%5FquantumML%20report%2Epdf&parent=%2Fpersonal%2Fsoham%5Fpetkar%5Fplaksha%5Fedu%5Fin%2FDocuments&ga=1" class="btn btn-secondary">Paper</a>
     </div>
   </div>
   
