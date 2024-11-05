@@ -29,6 +29,7 @@ nav_order: 2
 
     <div class="project-links">
       <a href="https://github.com/tenseisoham/dolphin/tree/main" class="btn btn-primary">Code</a>
+      <a href="https://www.youtube.com/watch?v=3YGhiBP-7z8&t=2s" class="btn btn-info">Video</a>
       <a href="https://plakshauniversity1-my.sharepoint.com/personal/soham_petkar_plaksha_edu_in/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsoham%5Fpetkar%5Fplaksha%5Fedu%5Fin%2FDocuments%2FDL%5FFinal%5FJigsaw%2Epdf&parent=%2Fpersonal%2Fsoham%5Fpetkar%5Fplaksha%5Fedu%5Fin%2FDocuments&ga=1" class="btn btn-secondary">Paper</a>
     </div>
   </div>
@@ -120,6 +121,35 @@ nav_order: 2
   </div>
   
 </div>
+
+
+<hr style="border: 1px solid lightgrey; margin: 20px 0;" />
+<div class="project-entry d-flex align-items-center" style="display: flex; align-items: center; gap: 20px;">
+
+  <!-- Left: Image -->
+  <div class="project-image">
+    <img src="{{ site.baseurl }}/assets/img/we-care.gif" alt="WeCare App" style="max-width: 300px;" />
+  </div>
+
+  <!-- Right: Project Info -->
+  <div class="project-info">
+    <h3>Winner HackPlaksha 24' Healthcare Track</h3>
+    <p><strong>Associated with:</strong> Plaksha University</p>
+    <p><strong>Category:</strong> Healthcare, Human Computer Interaction</p>
+
+    <div class="project-description">
+      <p>Developed WeCare, a slouching and blinking monitoring desktop app designed to improve user posture and reduce back pain and eye strain by raising alerts when slouching or strain occurs for extended periods.</p>
+      <p><strong>Technologies used:</strong> Strided Transformer weights for body keypoint detection and slouch detection, Electron JS, Python, SQL for desktop app development and data analysis.</p>
+    </div>
+
+    <div class="project-links">
+      <a href="https://devfolio.co/projects/wecare-b3b8" class="btn btn-primary">View Project</a>
+    </div>
+  </div>
+  
+</div>
+
+
 
 
 <!-- Easter Egg Section -->
