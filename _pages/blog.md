@@ -10,6 +10,12 @@ nav_order: 2
 
 ## **Work Experience**
 ---
+### **Undergraduate Researcher**  
+**PreCog Lab - IIIT Hyderabad**  
+**Jan 2025 - Present | Hyderabad, India** 
+- Working on interpretability and machine unlearning in multimodal models.
+
+---
 ### **AI/ML & Data Science Intern**  
 **JM Financial Ltd**  
 **May 2024 - August 2024 | Mumbai, Maharashtra, India**  
