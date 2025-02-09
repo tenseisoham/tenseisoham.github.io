@@ -112,9 +112,25 @@ body {
 
 <div class="page-content">
   <div class="projects-grid">
-  
-    <!-- 1) Visual Embeddings Solving Jigsaw Puzzles -->
-    <div class="project-card">
+
+   <div class="project-card">
+      <img src="{{ site.baseurl }}/assets/img/Khalasi-IO.PNG" alt="Visual Embeddings Jigsaw Preview" />
+      <h3>Khalasi-IO: Detecting Situational Impairements with Reasoning Based Memory Bank</h3>
+      <p><strong>Year:</strong> Oct - Dec 2024</p>
+      <p><strong>Category:</strong> Deep Learning, Human Computer Interaction</p>
+      <p>
+        Detects and addresses temporary
+        impairments caused by environmental
+        factors like noise, lighting, and stress.
+        Integrates wearable devices and contextual
+        memory for personalized, real-time
+        interventions, reducing cognitive load and
+        frustration. Promising results highlight
+        scalability and improved accessibility.
+      </p>
+    </div>
+    
+   <div class="project-card">
       <img src="{{ site.baseurl }}/assets/img/jigsaw.JPG" alt="Visual Embeddings Jigsaw Preview" />
       <h3>Visual Embeddings Solving Jigsaw Puzzles</h3>
       <p><strong>Year:</strong> Feb - Apr 2024</p>
@@ -138,7 +154,7 @@ body {
     </div>
     
     <!-- 2) Quantum Machine Learning Classifiers -->
-    <div class="project-card">
+   <div class="project-card">
       <img src="{{ site.baseurl }}/assets/img/quantum.JPG" alt="Quantum Machine Learning Preview" />
       <h3>Quantum Machine Learning Classifiers</h3>
       <p><strong>Year:</strong> Mar - May 2024</p>
@@ -159,7 +175,7 @@ body {
     </div>
     
     <!-- 3) SWaV-Based Clustering for Vehicle Identification -->
-    <div class="project-card">
+   <div class="project-card">
       <img src="{{ site.baseurl }}/assets/img/swav.JPG" alt="SWaV Clustering for Vehicle Re-Identification" />
       <h3>SWaV-Based Clustering for Vehicle Identification</h3>
       <p><strong>Year:</strong> Oct - Nov 2023</p>
@@ -177,7 +193,7 @@ body {
     </div>
     
     <!-- 4) ADRENALIN Challenge: Non-Intrusive Load Disaggregation -->
-    <div class="project-card">
+   <div class="project-card">
       <img src="{{ site.baseurl }}/assets/img/payday.JPG" alt="ADRENALIN NILM Challenge" />
       <h3>ADRENALIN Challenge: Non-Intrusive Load Disaggregation (NILM)</h3>
       <p><strong>Year:</strong> Feb - Apr 2024</p>
@@ -197,7 +213,7 @@ body {
     </div>
     
     <!-- 5) Winner HackPlaksha 24' Healthcare Track -->
-    <div class="project-card">
+   <div class="project-card">
       <img src="{{ site.baseurl }}/assets/img/we-care.gif" alt="WeCare App" />
       <h3>Winner HackPlaksha 24' Healthcare Track</h3>
       <p><strong>Associated with:</strong> Plaksha University</p>
@@ -218,7 +234,7 @@ body {
     </div>
     
     <!-- 6) Easter Egg: Reinforcement Learning Convergence Simulation -->
-    <div class="project-card">
+   <div class="project-card">
       <img src="{{ site.baseurl }}/assets/img/TD_learning.gif" alt="Reinforcement Learning Simulation" />
       <h3 style="font-size: 1.2rem;">Easter Egg: Reinforcement Learning Convergence Simulation</h3>
       <p><strong>Category:</strong> Reinforcement Learning, Temporal Difference Learning</p>
