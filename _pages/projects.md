@@ -114,7 +114,7 @@ body {
   <div class="projects-grid">
 
    <div class="project-card">
-      <img src="{{ site.baseurl }}/assets/img/Khalasi-IO.PNG" alt="Visual Embeddings Jigsaw Preview" />
+      <img src="{{ site.baseurl }}/assets/img/Khalasi-IO.png" alt="Visual Embeddings Jigsaw Preview" />
       <h3>Khalasi-IO: Detecting Situational Impairements with Reasoning Based Memory Bank</h3>
       <p><strong>Year:</strong> Oct - Dec 2024</p>
       <p><strong>Category:</strong> Deep Learning, Human Computer Interaction</p>
