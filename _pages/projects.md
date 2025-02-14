@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: projects
+title: 
 description:
 nav: true
 nav_order: 2
@@ -32,7 +32,8 @@ body {
 
 /* Card styling */
 .project-card {
-  background-color: #2F2F2F; /* Dark tile background */
+  /* background-color: #2F2F2F; Dark tile background */
+  background-color: var(--bg-color);
   border-radius: 8px;
   padding: 20px;
   color: #f2f2f2; /* Light text */
@@ -108,11 +109,27 @@ body {
 }
 </style>
 
-<h1 style="margin-bottom: 20px;">Projects</h1>
+<h1 style="margin-bottom: 20px;">projects</h1>
+
+
 
 <div class="page-content">
   <div class="projects-grid">
 
+   <div class="project-card">
+      <img src="{{ site.baseurl }}/assets/img/RAGRL.JPG" alt="RAG RL preview" />
+      <h3>RAG Optimizations with Reinforcement Learning</h3>
+      <p><strong>Year:</strong> Feb - May 2024</p>
+      <p><strong>Category:</strong> Deep Learning, Reinforcement Learning</p>
+      <p>
+        This project proposes a novel reinforcement learning based optimization
+ strategy that aims to rectify these impediments by evaluating retriever performance on diverse conversa
+tional data with specific regards to the type of text under consideration. Through the integration of text analysis metrics, different types of retrieval techniques, evaluation frameworks for context and response generation and Reinforcement Learning (RL) policies such as DQN, PPO and Multi-armed Bandit, we
+ propose an evolved RAG framework capable of producing superior responses with a marked reduction in
+ superfluous content.
+      </p>
+    </div>
+   
    <div class="project-card">
       <img src="{{ site.baseurl }}/assets/img/Khalasi-IO.png" alt="Visual Embeddings Jigsaw Preview" />
       <h3>Khalasi-IO: Detecting Situational Impairements with Reasoning Based Memory Bank</h3>
