@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/
-title: 
+title: projects
 description:
 nav: true
 nav_order: 2
@@ -109,7 +109,7 @@ body {
 }
 </style>
 
-<h1 style="margin-bottom: 20px;">projects</h1>
+<!-- <h1 style="margin-bottom: 20px;">projects</h1> -->
 
 
 
