@@ -25,3 +25,6 @@ Outside of my academic and research endeavors, I have a deep appreciation for ci
 
 I also [blog](https://medium.com/@soham.petkar) and [tweet](https://x.com/ressurexn?t=MegIXtg6YODVVfxpj-J1TA&s=09) sometimes.
 
+
+# news
+- 2025.02: &nbsp;My <span style="font-weight: bold;">new 1st-author</span> paper has been accepted to <span style="font-weight: bold;">CHI 2025 Late Breaking Work</span>! "AdaptAI: A Personalized Solution to Sense Your Stress, Fix Your Mess, and Boost Productivity"! Feel so grateful to my mentor and collaborators.
