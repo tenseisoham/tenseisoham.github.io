@@ -24,4 +24,11 @@ Student Teaching Assistant for the AI3001/Deep Learning course under Dr. Anupam 
 
 In this ongoing role, I am responsible for guiding students and high school teachers in artificial intelligence concepts. I also develop educational content, including AI tutorials and videos, to make AI more accessible and engaging for a broader audience. My focus is on simplifying complex AI topics for learners of various levels and promoting AI literacy in schools.
 
+---
 
+### IOAI Stage 4 Mentor
+**ACM IOAI Student Mentor** 
+**May 2025**  
+**Location:** IIIT Hyderabad
+
+Mentored selected Stage 4 International Olympiad in Artificial Intelligence (IOAI) 2025 students on Natural Language Processing (NLP) and Machine Learning (ML) problems, guiding them through real-world AI challenges.

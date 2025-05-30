@@ -13,7 +13,7 @@ nav_order: 2
 ### **Undergraduate Researcher**  
 **PreCog Lab - IIIT Hyderabad**  
 **Jan 2025 - Present | Hyderabad, India** 
-- Working on interpretability and machine unlearning in multimodal models.
+- Working on interpretability and reasoning in multimodal models.
 
 ---
 ### **AI/ML & Data Science Intern**  
