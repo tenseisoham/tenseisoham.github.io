@@ -19,7 +19,7 @@ redirect_from:
       <br><br>
       Topics that intrigue me include (but aren’t limited to): mechanistic interpretability, alignment,  graph-language modeling, deterministic &amp; stochastic reasoning mechanisms, or anything that imparts tacit knowledge to models!
       <br><br>
-      Outside academics and research, I love cinema and music: critically analyzing modern films, filmography, and directing. My team and I have won competitions at BITS-H, Ashoka, and internal university events. I’m also passionate about e‑sports, having competed and worked as an analyst.
+      Outside academics and research, I love cinema and music: critically analyzing modern films, filmography, and directing. My team and I have won competitions at BITS-H, Ashoka, and internal university events. I’m also passionate about both sports and e‑sports, having competed and worked as an analyst.
       <br><br>
       I also blog (on LessWrong) and tweet (on X) sometimes.
     </div>
@@ -198,72 +198,6 @@ redirect_from:
 <!-- TEACHING SECTION -->
 <!--  -->
 
-## 👨🏻‍🏫 <strong>Teaching</strong>
-
-<style>
-.achievement-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1rem;
-  margin-top: 1.5rem;
-}
-
-@media (min-width: 768px) {
-  .achievement-grid {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-.achievement-item {
-  background: #161b22; /*linear-gradient(135deg, #161b22, #1e2630);*/
-  border-left: 4px solid #FFD700;
-  padding: 0.5rem 1rem;
-  border-radius: 10px;
-  box-shadow: 0 4px 12px rgba(255, 215, 0, 0.08);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.achievement-item:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 14px rgba(255, 215, 0, 0.12);
-}
-
-.achievement-title {
-  font-weight: 600;
-  font-size: 1rem;
-  color: #f0f6fc;
-  display: block;
-  margin-bottom: 0.15rem;
-}
-
-.achievement-note {
-  font-size: 0.94rem;
-  color: #9eb1c6;
-  display: block;
-}
-</style>
-
-<div class="achievement-grid">
-
-  <div class="achievement-item">
-    <span class="achievement-title">Deep Learning Teaching Assistant</span>
-    <span class="achievement-note">Plaksha University · Aug 2024 – Dec 2024 · Mohali, India · On-site<br>
-    Assisted in AI3001/Deep Learning under Dr. Anupam Sobti, guiding students through concepts, assignments, and project work.</span>
-  </div>
-
-  <div class="achievement-item">
-    <span class="achievement-title">AI Educator</span>
-    <span class="achievement-note">Vizuara · Aug 2024 – Jan 2025 · Remote<br>
-    Created AI learning materials and mentored students & high school teachers in AI, simplifying complex concepts for diverse learners.</span>
-  </div>
-
-  <div class="achievement-item">
-    <span class="achievement-title">IOAI Stage 4 & 5 Mentor</span>
-    <span class="achievement-note">ACM IOAI Student Mentor · May 2025 · IIIT Hyderabad<br>
-    Mentored Stage 4 & 5 International Olympiad in AI 2025 students on NLP and ML problems, guiding them through real-world AI challenges.</span>
-  </div>
-
-</div>
 
 
 <!--  -->
@@ -339,6 +273,16 @@ redirect_from:
 </style>
 
 <div class="exp-grid">
+  <!-- Research Fellow / Sarvam AI -->
+  <div class="exp-item">
+    <div class="exp-header">
+      <div class="header-left">
+        <div class="exp-title">Research Fellow</div>
+        <div class="exp-desp">Sarvam AI</div>
+      </div>
+      <div class="exp-date">Aug, 2025 – Present</div>
+    </div>
+  </div>
 
   <!-- Undergraduate Researcher / PreCog Lab - IIIT Hyderabad -->
   <div class="exp-item">
@@ -347,7 +291,7 @@ redirect_from:
         <div class="exp-title">Research Associate</div>
         <div class="exp-desp">PreCog Lab - IIIT Hyderabad</div>
       </div>
-      <div class="exp-date">Jan, 2025 – Present</div>
+      <div class="exp-date">Jan - Aug, 2025</div>
     </div>
   </div>
 
@@ -425,6 +369,74 @@ redirect_from:
       </div>
       <div class="exp-date">Jan – Jun, 2022</div>
     </div>
+  </div>
+
+</div>
+
+
+## 👨🏻‍🏫 <strong>Teaching</strong>
+
+<style>
+.achievement-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+@media (min-width: 768px) {
+  .achievement-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.achievement-item {
+  background: #161b22; /*linear-gradient(135deg, #161b22, #1e2630);*/
+  border-left: 4px solid #FFD700;
+  padding: 0.5rem 1rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(255, 215, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.achievement-item:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(255, 215, 0, 0.12);
+}
+
+.achievement-title {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #f0f6fc;
+  display: block;
+  margin-bottom: 0.15rem;
+}
+
+.achievement-note {
+  font-size: 0.94rem;
+  color: #9eb1c6;
+  display: block;
+}
+</style>
+
+<div class="achievement-grid">
+
+  <div class="achievement-item">
+    <span class="achievement-title">Deep Learning Teaching Assistant</span>
+    <span class="achievement-note">Plaksha University · Aug 2024 – Dec 2024 · Mohali, India · On-site<br>
+    Assisted in AI3001/Deep Learning under Dr. Anupam Sobti, guiding students through concepts, assignments, and project work.</span>
+  </div>
+
+  <div class="achievement-item">
+    <span class="achievement-title">AI Educator</span>
+    <span class="achievement-note">Vizuara · Aug 2024 – Jan 2025 · Remote<br>
+    Created AI learning materials and mentored students & high school teachers in AI, simplifying complex concepts for diverse learners.</span>
+  </div>
+
+  <div class="achievement-item">
+    <span class="achievement-title">IOAI Stage 4 & 5 Mentor</span>
+    <span class="achievement-note">ACM IOAI Student Mentor · May 2025 · IIIT Hyderabad<br>
+    Mentored Stage 4 & 5 International Olympiad in AI 2025 students on NLP and ML problems, guiding them through real-world AI challenges.</span>
   </div>
 
 </div>
