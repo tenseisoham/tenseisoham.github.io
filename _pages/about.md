@@ -316,7 +316,7 @@ redirect_from:
     </div>
   </div>
 
-  <!-- Head of Logistics and Operations / Plaksha Consulting Club -->
+  <!-- Head of Logistics and Operations / Plaksha Consulting Club
   <div class="exp-item">
     <div class="exp-header">
       <div class="header-left">
@@ -325,9 +325,9 @@ redirect_from:
       </div>
       <div class="exp-date">Aug, 2023 – Aug, 2024</div>
     </div>
-  </div>
+  </div> -->
 
-  <!-- AI/ML Engineer / Best Automation -->
+  <!-- AI/ML Engineer / Best Automation
   <div class="exp-item">
     <div class="exp-header">
       <div class="header-left">
@@ -336,9 +336,9 @@ redirect_from:
       </div>
       <div class="exp-date">Jul – Sep, 2023</div>
     </div>
-  </div>
+  </div> -->
 
-  <!-- Entrepreneur / InfoEdge CFE Plaksha University -->
+  <!-- Entrepreneur / InfoEdge CFE Plaksha University
   <div class="exp-item">
     <div class="exp-header">
       <div class="header-left">
@@ -347,9 +347,9 @@ redirect_from:
       </div>
       <div class="exp-date">Apr – Jun, 2023</div>
     </div>
-  </div>
+  </div> -->
 
-  <!-- Tech Business Development Intern / MetaXP -->
+  <!-- Tech Business Development Intern / MetaXP
   <div class="exp-item">
     <div class="exp-header">
       <div class="header-left">
@@ -358,7 +358,7 @@ redirect_from:
       </div>
       <div class="exp-date">Jul – Sep, 2022</div>
     </div>
-  </div>
+  </div> -->
 
   <!-- Game Designer / MADIEE Games -->
   <div class="exp-item">

@@ -24,7 +24,7 @@ author:
   avatar: "soham_main_pic.JPG"
   name: "Soham Petkar"
   # pronouns "he/him"
-  bio: "research @sarvam ai | ex @precog-iiit-h | ex @plaksha university" 
+  bio: "research @sarvam ai | ex @precog-iiit-h" 
   # location: "Earth"
   # employer: "Student@Plaksha University"
   uri: # URL
@@ -60,13 +60,13 @@ author:
   lastfm: # Username
   linkedin: "sohampetkar"
   mastodon: # URL
-  medium: "https://medium.com/@soham.petkar"
+  medium: #"https://medium.com/@soham.petkar"
   pinterest: # Username
   soundcloud: # Username
   steam: # Username
   telegram: # URL
   tumblr: # Username
-  twitter: ressurexn
+  twitter: sohampetkar
   vine: # Username
   weibo: # Username
   wikipedia: # Username
