@@ -5,5 +5,6 @@ image: "/images/glm.png"
 date: 2025-08-28
 status: "Accepted NeurIps NPGML'25 Workshop"
 arxiv: "https://arxiv.org/abs/2508.20583"
-codelink: "https://github.com/rethinking-graph-language-evals/CLEGR"
+paperurl: "https://openreview.net/forum?id=IAuiRjAqiE"
+code: "https://github.com/rethinking-graph-language-evals/CLEGR"
 ---

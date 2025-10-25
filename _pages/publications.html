@@ -35,7 +35,9 @@ author_profile: true
         <a href="{{ post.arxiv }}" target="_blank">[arXiv]</a>
         {% endif %} {% if post.paperurl %}
         <a href="{{ post.paperurl }}" target="_blank">[DOI]</a>
-        {% endif %}
+        {% endif %} {% if post.code %}
+        <a href="{{ post.code }}" target="_blank">[Code]</a>
+        {% endif %} 
       </div>
     </div>
   </div>
